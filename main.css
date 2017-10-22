@@ -24,7 +24,8 @@ p{
 }
 
 ul {
-    list-style-type:none;
+    list-style-type: circle;
+    
 }
 
 .img{
@@ -51,6 +52,8 @@ display: block;
 margin: 0px auto;
 margin-top: 50px;
 margin-bottom: 50px;
+height: 60px;
+width: 200px;
 
 
 }
